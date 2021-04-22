@@ -1,0 +1,7 @@
+1. Name:Yu-Chen, Hsiao
+2. I've tried 4 models, logistic regression, gaussian navie bayes, K-nearest neighbor and linear regression.
+3. Logistic regression:0.82
+Gaussian navie bayes:0.83
+K-nearest neighbor:0.85
+Linear regression:0.82
+4. Summary: The model with highest accuracy is Knn model while k equals to 15. The predicting accuracy is round 85%.
